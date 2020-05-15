@@ -27,7 +27,7 @@
     "scratch-render-fonts": "1.0.0-prerelease.20200507182347"
   },
   "devDependencies": {
-    "babel-core": "6.26.0",
+    "babel-core": "6.26.3",
     "babel-eslint": "^8.1.2",
     "babel-loader": "7.1.5",
     "babel-preset-env": "1.6.1",
